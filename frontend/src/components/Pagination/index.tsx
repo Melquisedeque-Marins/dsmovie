@@ -1,7 +1,6 @@
 import { ReactComponent as Arrow} from 'assets/img/arrow.svg';
 import './Styles.css'
 
-
 function Pagination() {
 
     return (
